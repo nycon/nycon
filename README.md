@@ -36,12 +36,8 @@ Most of my projects focus on **practical solutions** for real-world server envir
 
 ### 🔹 Virtualization & Systems
 - **qemu-wi**  
-  Experimental QEMU-based tooling with cloud-init and KVM integration.  For now Private
+  QEMU-based webUI with cloud-init and KVM integration.  For now Private
   🔗 https://github.com/nycon/qemu-wi
-
-- **bash-gswi**  
-  Collection of Bash utilities and helper scripts for system workflows.  For now Private
-  🔗 https://github.com/nycon/bash-gswi
 
 ---
 
