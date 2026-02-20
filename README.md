@@ -67,12 +67,4 @@ Most of my projects focus on **practical solutions** for real-world server envir
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=nycon&show_icons=true&hide_title=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nycon&layout=compact" />
-</p>
-
----
-
 ⭐ If you find my projects useful, feel free to star them.
