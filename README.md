@@ -52,13 +52,6 @@ Most of my projects focus on **practical solutions** for real-world server envir
 
 ---
 
-### 🔹 Web & Profile
-- **nycon.github.io**  
-  Personal GitHub Pages site / portfolio.  
-  🔗 https://github.com/nycon/nycon.github.io
-
----
-
 ## 🎯 Focus right now
 - Networking
 - Virtualization & container-based infrastructure
