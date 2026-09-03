@@ -32,6 +32,10 @@ Most of my projects focus on **practical solutions** for real-world server envir
   Automates phpMyAdmin installation into a Pterodactyl panel public directory.  
   🔗 https://github.com/nycon/pterodactyl-phpmyadmin
 
+- **mumble-admin**  
+  A modern web interface for managing multiple Mumble servers on a bare-metal host — including domain management, SSL, and the rest.  
+  🔗 https://github.com/nycon/mumble-admin
+
 ---
 
 ### 🔹 Virtualization & Systems
